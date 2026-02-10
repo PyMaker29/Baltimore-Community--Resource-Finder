@@ -1,4 +1,4 @@
-Baltimore-Community-Resource-Finder
+  Baltimore-Community-Resource-Finder
 A serverless web application built on AWS Free Tier to help Baltimore residents find food pantries, homeless shelters, and free medical clinics.
 
 Overview
